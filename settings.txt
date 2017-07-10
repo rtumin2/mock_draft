@@ -1,0 +1,10 @@
+Teams 10
+Roster_Size 15
+#Below enter the number of starters for each position.
+QB 1
+RB 2
+WR 2
+FLEX 1
+TE 1
+D/ST 1
+K 1
